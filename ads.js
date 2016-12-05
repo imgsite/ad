@@ -1,0 +1,1 @@
+window.ADADAD=!0;
